@@ -1,8 +1,5 @@
 # React_Practise
 
-## Author
-Thirumani Raja
-thirumaniraja143@gmail.com
 
 ## Features
 
@@ -15,4 +12,8 @@ thirumaniraja143@gmail.com
 - ✅ Linting and Prettier for code quality
 - 🔍 ESLint and Husky (Git hooks) integration
 - 📦 State Management (Context API / Redux – plug as needed)
+
+## Author
+Name - Thirumani Raja
+Email - thirumaniraja143@gmail.com
 
