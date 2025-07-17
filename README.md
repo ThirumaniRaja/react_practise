@@ -1,5 +1,5 @@
 # react_practise
 
-##author
+## author
 Thirumani Raja
 thirumaniraja143@gmail.com
